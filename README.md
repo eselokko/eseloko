@@ -45,7 +45,7 @@ Soy hashes, principiante en CyberSeguridad y Programación, tengo conocimientos 
     <img alt="Discord" src="https://img.shields.io/discord/685949311443271744?logo=Discord&style=for-the-badge" />
   </a>   
    <p align="center">
-    <a href="https://github.com/hashes">
+    <a href="https://github.com/hashesterminal">
     <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=hashesterminal.hashesterminal" />
   </a>
    </p>
