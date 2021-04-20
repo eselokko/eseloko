@@ -3,14 +3,6 @@
 Soy hashes, principiante en CyberSeguridad y Programación, tengo conocimientos en **Python**, **C#** y medio **JavaScript** y me gusta mucho crear ***Interfaces Graficas***
 
 <br />
-
-   ## Unica Red Social!
-   - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center">  [hashes#1843](https://discord.gg/h7E78a62U5)
-   
-   <br />
-   
-  
-   <br />
    
    ## Tecnologías 🍺
 
