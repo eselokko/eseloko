@@ -7,6 +7,7 @@ Soy hashes, principiante en CyberSeguridad y Programación, tengo conocimientos 
    ## Tecnologías 🍺
 
 ![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=Muy%20a%20Pocos%20Conocimientos.&style=for-the-badge&color=F7DF1E&logo=JavaScript)
+<br />
 ![VSCode](https://img.shields.io/static/v1?label=VSCode&message=Editor%20Favorito.%20&style=for-the-badge&color=1e88e5&logo=visual-studio-code)
 ![Python](https://img.shields.io/static/v1?label=Python&message=Lenguaje%20de%20Programación%20hasta%20el%20momento%20favorito.%20&style=for-the-badge&color=F7DF1E&logo=Python)
 ![C#](https://img.shields.io/static/v1?label=CSharp&message=Aprendiendo%20este%20Lenguaje.%20&style=for-the-badge&color=F7DF1E&logo=C#)
