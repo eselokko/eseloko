@@ -1,6 +1,6 @@
 # Hi, I Am Hashes
 
-Soy hashes, principiante en CyberSeguridad y Programación, tengo conocimientos en **Python**, **C#** y medio **JavaScript** y me gusta mucho crear ***Interfaces Graficas***
+Soy hashes, principiante en CyberSeguridad y Programación, tengo conocimientos en **Python**, **C#**, **HTML**, **CSS** y medio **JavaScript** y me gusta mucho crear ***Interfaces Graficas***
 
 <br />
    
