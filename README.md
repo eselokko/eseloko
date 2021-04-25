@@ -1,4 +1,4 @@
-# Hi, I Am Hashes
+# Hola, mi nombre es hashes
 
 Soy hashes, principiante en CyberSeguridad y Programación, tengo conocimientos en **Python**, **C#**, **HTML**, **CSS** y medio **JavaScript** y me gusta mucho crear ***Interfaces Graficas***
 
